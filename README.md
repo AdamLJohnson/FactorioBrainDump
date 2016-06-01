@@ -1,5 +1,10 @@
 # Factorio Brain Dump
-As I have been playing Factorio there are some commands and such that I want to remember.
+As I have been playing Factorio there are some commands and tips that I want to remember. 
+
+[HypnoBunny Gaming][HypnoBunny] has some awesome videos that show off some cool designs.
+
+## Trains ##
+After a lot of head scratching [this set of images][TrainHints] helped a lot. Here is information on [Block Signals][BlockSignal] and [Chain Signals][ChainSignal].
 
 ## Console Commands ##
 There are lots of good console commands [here][ConsoleCommands].
@@ -41,3 +46,7 @@ Refil a patch:
 [OilPatchCommands]: https://forums.factorio.com/viewtopic.php?t=15494
 [ConsoleCommands]: https://wiki.factorio.com/index.php?title=Console
 [ItemList]: https://github.com/ingmar/factorio-trees/blob/master/recipes.lua
+[TrainHints]: http://imgur.com/a/zG13U#0
+[BlockSignal]: https://wiki.factorio.com/index.php?title=Railway/Signal/Block_signal
+[ChainSignal]: https://wiki.factorio.com/index.php?title=Railway/Signal/Chain_signal
+[HypnoBunny]: https://www.youtube.com/channel/UCQOrrjulwm51geoEOzynmJw
